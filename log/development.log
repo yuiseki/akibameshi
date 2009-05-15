@@ -1157,3 +1157,19 @@ Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:10:24) [GET]
 Rendering template within layouts/shops
 Rendering shops/index
 Completed in 240ms (View: 227, DB: 4) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:53:28) [GET]
+  [4;36;1mShop Load (4.3ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 1215ms (View: 391, DB: 4) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 03:03:48) [GET]
+  [4;35;1mShop Load (4.4ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 317ms (View: 300, DB: 4) | 200 OK [http://yuiseki.net/]
+  [4;36;1mShop Load (2.1ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY RANDOM() LIMIT 1[0m
+  [4;36;1mShop Load (2.5ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY RANDOM() LIMIT 1[0m

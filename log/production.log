@@ -22543,3 +22543,593 @@ Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:21:54) [GET]
 Rendering template within layouts/shops
 Rendering shops/index
 Completed in 289ms (View: 282, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:24:13) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 174ms (View: 168, DB: 3) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:26:56) [GET]
+  Parameters: {"id"=>"33"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://akibameshi.yuiseki.net/shops/33/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:26:58) [PUT]
+  Parameters: {"shop"=>{"name"=>"肉の万世", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"http://farm3.static.flickr.com/2286/3533320227_862596643d_m.jpg", "address"=>"東京都千代田区神田須田町2-21"}, "commit"=>"Update", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"33"}
+Redirected to /
+Completed in 149ms (DB: 28) | 302 Found [http://akibameshi.yuiseki.net/shops/33]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:26:58) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 378ms (View: 347, DB: 29) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 192.168.1.1 at 2009-05-16 02:27:46) [POST]
+  Parameters: {"shop"=>{"name"=>"麺屋　きわみ", "wifi"=>"0", "power"=>"0", "address"=>"秋葉原中央通り"}, "commit"=>"登録", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c"}
+Redirected to /
+Completed in 167ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:27:46) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 180ms (View: 174, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:27:59) [GET]
+  Parameters: {"id"=>"48"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 6ms (View: 4, DB: 1) | 200 OK [http://akibameshi.yuiseki.net/shops/48/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:28:10) [PUT]
+  Parameters: {"shop"=>{"name"=>"麺屋　きわみ", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"http://farm4.static.flickr.com/3302/3497218190_6061f24a67_m.jpg", "address"=>"秋葉原UDX"}, "commit"=>"Update", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"48"}
+Redirected to /
+Completed in 116ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/48]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:28:10) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 196ms (View: 190, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:28:35) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 178ms (View: 171, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 192.168.1.1 at 2009-05-16 02:30:07) [POST]
+  Parameters: {"shop"=>{"name"=>"つけめん一歩", "wifi"=>"0", "power"=>"0", "address"=>"東京都末広町"}, "commit"=>"登録", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c"}
+Redirected to /
+Completed in 157ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:30:07) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 528ms (View: 521, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:30:11) [GET]
+  Parameters: {"id"=>"49"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 5ms (View: 4, DB: 1) | 200 OK [http://akibameshi.yuiseki.net/shops/49/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:30:23) [PUT]
+  Parameters: {"shop"=>{"name"=>"つけめん一歩", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"http://farm4.static.flickr.com/3426/3378859992_0f8deee85c_m.jpg", "address"=>"末広町蔵前通り"}, "commit"=>"Update", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"49"}
+Redirected to /
+Completed in 1022ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/49]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:30:30) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 337ms (View: 330, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:30:45) [GET]
+  Parameters: {"id"=>"49"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://akibameshi.yuiseki.net/shops/49/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:30:47) [PUT]
+  Parameters: {"shop"=>{"name"=>"つけめん一歩", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"http://farm4.static.flickr.com/3426/3378859992_0f8deee85c_m.jpg", "address"=>"蔵前通り"}, "commit"=>"Update", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"49"}
+Redirected to /
+Completed in 169ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/49]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:30:47) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 331ms (View: 324, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:30:51) [GET]
+  Parameters: {"id"=>"49"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://akibameshi.yuiseki.net/shops/49/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:30:58) [PUT]
+  Parameters: {"shop"=>{"name"=>"つけめん一歩", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"http://farm4.static.flickr.com/3426/3378859992_0f8deee85c_m.jpg", "address"=>"末広町駅"}, "commit"=>"Update", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"49"}
+Redirected to /
+Completed in 224ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/49]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:30:59) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 461ms (View: 455, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 192.168.1.1 at 2009-05-16 02:31:40) [POST]
+  Parameters: {"shop"=>{"name"=>"アキヨド", "wifi"=>"0", "power"=>"0", "address"=>"秋葉原ヨドバシカメラ"}, "commit"=>"登録", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c"}
+Redirected to /
+Completed in 169ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:31:40) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 345ms (View: 338, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:32:02) [GET]
+  Parameters: {"id"=>"50"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://akibameshi.yuiseki.net/shops/50/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:32:06) [PUT]
+  Parameters: {"shop"=>{"name"=>"アキヨド", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"", "address"=>"東京都千代田区神田花岡町1-1"}, "commit"=>"Update", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"50"}
+Redirected to /
+Completed in 139ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/50]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:32:06) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 383ms (View: 376, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:34:05) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 296ms (View: 192, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 121.114.124.220 at 2009-05-16 02:34:21) [GET]
+  Parameters: {"id"=>"36"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://akibameshi.yuiseki.net/shops/36/edit]
+
+
+Processing ShopsController#create (for 192.168.1.1 at 2009-05-16 02:36:02) [POST]
+  Parameters: {"shop"=>{"name"=>"アイカフェ", "wifi"=>"1", "power"=>"1", "address"=>"秋葉原中央通り"}, "commit"=>"登録", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c"}
+Redirected to /
+Completed in 144ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:36:02) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 199ms (View: 192, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:36:05) [GET]
+  Parameters: {"id"=>"51"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://akibameshi.yuiseki.net/shops/51/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:36:08) [PUT]
+  Parameters: {"shop"=>{"name"=>"アイカフェ", "wifi"=>"1", "url"=>"", "power"=>"1", "image"=>"http://farm4.static.flickr.com/3199/3153940439_0a97a7bfbe_m.jpg", "address"=>"秋葉原中央通り"}, "commit"=>"Update", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"51"}
+Redirected to /
+Completed in 137ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/51]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:36:08) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 319ms (View: 312, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 192.168.1.1 at 2009-05-16 02:37:08) [POST]
+  Parameters: {"shop"=>{"name"=>"牛丼専門店サンボ", "wifi"=>"0", "power"=>"0", "address"=>""}, "commit"=>"登録", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c"}
+Redirected to /
+Completed in 169ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:37:08) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 223ms (View: 216, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 125.200.87.212 at 2009-05-16 02:37:10) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 208ms (View: 201, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:37:11) [GET]
+  Parameters: {"id"=>"52"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 19ms (View: 9, DB: 1) | 200 OK [http://akibameshi.yuiseki.net/shops/52/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:37:15) [PUT]
+  Parameters: {"shop"=>{"name"=>"牛丼専門店サンボ", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"http://farm4.static.flickr.com/3257/3152605073_01ff32eb1c.jpg", "address"=>""}, "commit"=>"Update", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"52"}
+Redirected to /
+Completed in 153ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/52]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:37:16) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 322ms (View: 314, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:38:02) [GET]
+  Parameters: {"id"=>"52"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 5ms (View: 4, DB: 1) | 200 OK [http://akibameshi.yuiseki.net/shops/52/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:38:08) [PUT]
+  Parameters: {"shop"=>{"name"=>"牛丼専門店サンボ", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/SANBO_Akihabara.jpg/250px-SANBO_Akihabara.jpg", "address"=>""}, "commit"=>"Update", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"52"}
+Redirected to /
+Completed in 121ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/52]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:38:08) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 205ms (View: 198, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 125.200.87.212 at 2009-05-16 02:38:14) [POST]
+  Parameters: {"shop"=>{"name"=>"", "wifi"=>"0", "power"=>"0", "address"=>""}, "commit"=>"登録", "authenticity_token"=>"357574ef2f282d38fe720a8db04c307fb1a7924e"}
+Redirected to /
+Completed in 134ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 125.200.87.212 at 2009-05-16 02:38:15) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 207ms (View: 200, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 125.200.87.212 at 2009-05-16 02:38:16) [POST]
+  Parameters: {"shop"=>{"name"=>"", "wifi"=>"0", "power"=>"0", "address"=>""}, "commit"=>"登録", "authenticity_token"=>"357574ef2f282d38fe720a8db04c307fb1a7924e"}
+Redirected to /
+Completed in 141ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 125.200.87.212 at 2009-05-16 02:38:16) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 313ms (View: 306, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 125.200.87.212 at 2009-05-16 02:38:16) [POST]
+  Parameters: {"shop"=>{"name"=>"", "wifi"=>"0", "power"=>"0", "address"=>""}, "commit"=>"登録", "authenticity_token"=>"357574ef2f282d38fe720a8db04c307fb1a7924e"}
+Redirected to /
+Completed in 236ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 125.200.87.212 at 2009-05-16 02:38:17) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 313ms (View: 306, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 125.200.87.212 at 2009-05-16 02:38:18) [POST]
+  Parameters: {"shop"=>{"name"=>"", "wifi"=>"0", "power"=>"0", "address"=>""}, "commit"=>"登録", "authenticity_token"=>"357574ef2f282d38fe720a8db04c307fb1a7924e"}
+Redirected to /
+Completed in 139ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 125.200.87.212 at 2009-05-16 02:38:18) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 223ms (View: 214, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 125.200.87.212 at 2009-05-16 02:38:18) [POST]
+  Parameters: {"shop"=>{"name"=>"", "wifi"=>"0", "power"=>"0", "address"=>""}, "commit"=>"登録", "authenticity_token"=>"357574ef2f282d38fe720a8db04c307fb1a7924e"}
+Redirected to /
+Completed in 301ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 125.200.87.212 at 2009-05-16 02:38:18) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 228ms (View: 219, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 125.200.87.212 at 2009-05-16 02:38:18) [POST]
+  Parameters: {"shop"=>{"name"=>"", "wifi"=>"0", "power"=>"0", "address"=>""}, "commit"=>"登録", "authenticity_token"=>"357574ef2f282d38fe720a8db04c307fb1a7924e"}
+Redirected to /
+Completed in 211ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 125.200.87.212 at 2009-05-16 02:38:19) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 329ms (View: 321, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:38:51) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 224ms (View: 216, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:38:57) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 221ms (View: 213, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#destroy (for 192.168.1.1 at 2009-05-16 02:39:17) [DELETE]
+  Parameters: {"authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"57"}
+Redirected to /
+Completed in 139ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/57]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:39:17) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 322ms (View: 314, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#destroy (for 192.168.1.1 at 2009-05-16 02:39:21) [DELETE]
+  Parameters: {"authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"58"}
+Redirected to /
+Completed in 141ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/58]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:39:21) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 216ms (View: 208, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#destroy (for 192.168.1.1 at 2009-05-16 02:39:24) [DELETE]
+  Parameters: {"authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"55"}
+Redirected to /
+Completed in 178ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/55]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:39:24) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 315ms (View: 307, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:39:27) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 214ms (View: 206, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:39:46) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 212ms (View: 204, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 192.168.1.1 at 2009-05-16 02:39:48) [POST]
+  Parameters: {"shop"=>{"name"=>"", "wifi"=>"0", "power"=>"0", "address"=>""}, "commit"=>"登録", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c"}
+Redirected to /
+Completed in 147ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:39:48) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 353ms (View: 213, DB: 129) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:39:51) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 215ms (View: 207, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:43:32) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 348ms (View: 332, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#destroy (for 192.168.1.1 at 2009-05-16 02:43:40) [DELETE]
+  Parameters: {"authenticity_token"=>"94cca3ad68dd5247d7eb7479fc0baa1b2f490805", "id"=>"53"}
+Redirected to /
+Completed in 144ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/53]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:43:40) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 216ms (View: 208, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#destroy (for 192.168.1.1 at 2009-05-16 02:43:52) [DELETE]
+  Parameters: {"authenticity_token"=>"94cca3ad68dd5247d7eb7479fc0baa1b2f490805", "id"=>"59"}
+Redirected to /
+Completed in 121ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/59]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:43:52) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 211ms (View: 203, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#destroy (for 192.168.1.1 at 2009-05-16 02:43:56) [DELETE]
+  Parameters: {"authenticity_token"=>"94cca3ad68dd5247d7eb7479fc0baa1b2f490805", "id"=>"56"}
+Redirected to /
+Completed in 132ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/56]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:43:56) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 314ms (View: 306, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#destroy (for 192.168.1.1 at 2009-05-16 02:43:59) [DELETE]
+  Parameters: {"authenticity_token"=>"94cca3ad68dd5247d7eb7479fc0baa1b2f490805", "id"=>"54"}
+Redirected to /
+Completed in 171ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/54]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:44:00) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 201ms (View: 194, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:44:12) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 307ms (View: 300, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:44:17) [GET]
+  Parameters: {"id"=>"52"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 6ms (View: 4, DB: 1) | 200 OK [http://akibameshi.yuiseki.net/shops/52/edit]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:44:21) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 206ms (View: 198, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:44:28) [GET]
+  Parameters: {"id"=>"51"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://akibameshi.yuiseki.net/shops/51/edit]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:44:31) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 200ms (View: 193, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:48:55) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 335ms (View: 320, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:49:26) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 205ms (View: 198, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:49:30) [GET]
+  Parameters: {"id"=>"52"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 6ms (View: 4, DB: 1) | 200 OK [http://akibameshi.yuiseki.net/shops/52/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:50:16) [PUT]
+  Parameters: {"shop"=>{"name"=>"牛丼専門店サンボ", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/SANBO_Akihabara.jpg/250px-SANBO_Akihabara.jpg", "address"=>"千代田区外神田３丁目１４-４"}, "commit"=>"Update", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c", "id"=>"52"}
+Redirected to /
+Completed in 172ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/52]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:50:17) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 417ms (View: 410, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:51:14) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 313ms (View: 305, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 192.168.1.1 at 2009-05-16 02:51:47) [POST]
+  Parameters: {"shop"=>{"name"=>"おはち", "wifi"=>"0", "power"=>"0", "address"=>"東京都千代田区神田花岡町"}, "commit"=>"登録", "authenticity_token"=>"41d35ce297e31d945ea7ab81cbf76fc341214e6c"}
+Redirected to /
+Completed in 125ms (DB: 0) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:51:48) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 496ms (View: 489, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:53:23) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 316ms (View: 309, DB: 4) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.148.72.192 at 2009-05-16 03:04:05) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 340ms (View: 326, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#create (for 114.148.72.192 at 2009-05-16 03:05:12) [POST]
+  Parameters: {"shop"=>{"name"=>"刀削麺唐屋", "wifi"=>"0", "power"=>"0", "address"=>"東京都千代田区外神田3-8-17"}, "commit"=>"登録", "authenticity_token"=>"8d2925b8835b3738cfc07d55c1c5ec03ec9db280"}
+Redirected to /
+Completed in 196ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 114.148.72.192 at 2009-05-16 03:05:13) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 422ms (View: 414, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
+
+
+Processing ShopsController#edit (for 114.148.72.192 at 2009-05-16 03:05:16) [GET]
+  Parameters: {"id"=>"61"}
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 6ms (View: 4, DB: 1) | 200 OK [http://akibameshi.yuiseki.net/shops/61/edit]
+
+
+Processing ShopsController#update (for 114.148.72.192 at 2009-05-16 03:05:29) [PUT]
+  Parameters: {"shop"=>{"name"=>"刀削麺唐屋", "wifi"=>"0", "url"=>"http://www.tousyomen-karaya.com/", "power"=>"0", "image"=>"", "address"=>"東京都千代田区外神田3-8-17"}, "commit"=>"Update", "authenticity_token"=>"8d2925b8835b3738cfc07d55c1c5ec03ec9db280", "id"=>"61"}
+Redirected to /
+Completed in 137ms (DB: 1) | 302 Found [http://akibameshi.yuiseki.net/shops/61]
+
+
+Processing ShopsController#index (for 114.148.72.192 at 2009-05-16 03:05:29) [GET]
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 325ms (View: 318, DB: 5) | 200 OK [http://akibameshi.yuiseki.net/]
