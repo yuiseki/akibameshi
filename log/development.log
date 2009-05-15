@@ -578,3 +578,582 @@ Processing ShopsController#index (for 192.168.1.1 at 2009-05-15 01:28:16) [GET]
 Rendering template within layouts/shops
 Rendering shops/index
 Completed in 878ms (View: 869, DB: 1) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:10:54) [GET]
+  [4;36;1mShop Load (2.5ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 214ms (View: 201, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:11:31) [GET]
+  [4;35;1mShop Load (2.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 207ms (View: 196, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:11:39) [GET]
+  [4;36;1mShop Load (2.1ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 210ms (View: 199, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:11:55) [GET]
+  [4;35;1mShop Load (2.0ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 203ms (View: 193, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:12:51) [GET]
+  [4;36;1mShop Load (2.1ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 307ms (View: 297, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:13:30) [GET]
+  [4;35;1mShop Load (2.5ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 207ms (View: 196, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:15:53) [GET]
+  [4;36;1mShop Load (2.1ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 309ms (View: 299, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:16:00) [GET]
+  [4;35;1mShop Load (2.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 206ms (View: 196, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:16:14) [GET]
+  [4;36;1mShop Load (2.0ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 307ms (View: 297, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:16:30) [GET]
+  [4;35;1mShop Load (2.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 208ms (View: 197, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:18:09) [GET]
+  [4;36;1mShop Load (2.1ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 381ms (View: 370, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:18:25) [GET]
+  [4;35;1mShop Load (2.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 211ms (View: 200, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:18:58) [GET]
+  [4;36;1mShop Load (2.1ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 264ms (View: 253, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 114.48.204.103 at 2009-05-15 22:19:14) [GET]
+  [4;35;1mShop Load (2.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 210ms (View: 199, DB: 2) | 200 OK [http://yuiseki.net/]
+
+
+Processing ApplicationController#index (for 66.249.70.39 at 2009-05-15 23:19:55) [GET]
+
+
+ActionController::RoutingError (No route matches "/p/20090101/20" with {:method=>:get}):
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/recognition_optimisation.rb:66:in `recognize_path'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/routing/route_set.rb:386:in `recognize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:182:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:159:in `process_client'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `each'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:158:in `process_client'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `initialize'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `new'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:285:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `initialize'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `new'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel.rb:268:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:282:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `each'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/configurator.rb:281:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/command.rb:212:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /usr/bin/mongrel_rails:19:in `load'
+    /usr/bin/mongrel_rails:19
+
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:36:00) [GET]
+  [4;36;1mShop Load (11.2ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 2108ms (View: 1838, DB: 11) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:36:04) [GET]
+  Parameters: {"id"=>"45"}
+  [4;35;1mShop Load (17.3ms)[0m   [0mSELECT * FROM "shops" WHERE ("shops"."id" = 45) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 37ms (View: 11, DB: 17) | 200 OK [http://yuiseki.net/shops/45/edit]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:36:40) [GET]
+  Parameters: {"id"=>"45"}
+  [4;36;1mShop Load (0.4ms)[0m   [0;1mSELECT * FROM "shops" WHERE ("shops"."id" = 45) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 20ms (View: 11, DB: 0) | 200 OK [http://yuiseki.net/shops/45/edit]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:37:04) [GET]
+  Parameters: {"id"=>"45"}
+  [4;35;1mShop Load (0.4ms)[0m   [0mSELECT * FROM "shops" WHERE ("shops"."id" = 45) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 20ms (View: 11, DB: 0) | 200 OK [http://yuiseki.net/shops/45/edit]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:37:21) [GET]
+  Parameters: {"id"=>"45"}
+  [4;36;1mShop Load (0.4ms)[0m   [0;1mSELECT * FROM "shops" WHERE ("shops"."id" = 45) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 19ms (View: 11, DB: 0) | 200 OK [http://yuiseki.net/shops/45/edit]
+
+
+Processing ShopsController#show (for 192.168.1.1 at 2009-05-16 01:37:36) [GET]
+  Parameters: {"id"=>"45"}
+Rendering template within layouts/shops
+Rendering shops/show
+
+
+ActionView::TemplateError (You have a nil object when you didn't expect it!
+The error occurred while evaluating nil.name) on line #3 of app/views/shops/show.html.erb:
+1: <p>
+2:   <b>Name:</b>
+3:   <%=h @shop.name %>
+4: </p>
+5: 
+6: <p>
+
+    app/views/shops/show.html.erb:3
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/renderable.rb:39:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/template.rb:73:in `render_template'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:256:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:367:in `_render_with_layout'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_view/base.rb:254:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1174:in `render_for_file'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:896:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:868:in `render_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/activesupport-2.2.2/lib/active_support/core_ext/benchmark.rb:8:in `realtime'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:51:in `render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1248:in `default_render'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:1259:in `perform_action_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:617:in `call_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/1.8/benchmark.rb:293:in `measure'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/rescue.rb:136:in `perform_action_without_caching'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:13:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/activerecord-2.2.2/lib/active_record/query_cache.rb:8:in `cache'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/caching/sql_cache.rb:12:in `perform_action'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `send'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:524:in `process_without_filters'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/filters.rb:606:in `process_without_session_management_support'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/session_management.rb:134:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/base.rb:392:in `process'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:183:in `handle_request'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:110:in `dispatch_unlocked'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:123:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:122:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:132:in `dispatch_cgi'
+    /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/dispatcher.rb:39:in `dispatch'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:76:in `process'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `synchronize'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/rails.rb:74:in `process'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /usr/lib/ruby/gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /usr/bin/mongrel_rails:19:in `load'
+    /usr/bin/mongrel_rails:19
+
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_trace (131.3ms)
+Rendered /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/_request_and_response (9.8ms)
+Rendering /usr/lib/ruby/gems/1.8/gems/actionpack-2.2.2/lib/action_controller/templates/rescues/layout.erb (internal_server_error)
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:37:38) [GET]
+  [4;35;1mShop Load (3.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 234ms (View: 221, DB: 3) | 200 OK [http://yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:37:45) [GET]
+  [4;36;1mShop Load (3.4ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 325ms (View: 313, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:38:08) [GET]
+  Parameters: {"id"=>"45"}
+  [4;35;1mShop Load (0.4ms)[0m   [0mSELECT * FROM "shops" WHERE ("shops"."id" = 45) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://yuiseki.net/shops/45/edit]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:38:24) [GET]
+  Parameters: {"id"=>"45"}
+  [4;36;1mShop Load (0.4ms)[0m   [0;1mSELECT * FROM "shops" WHERE ("shops"."id" = 45) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://yuiseki.net/shops/45/edit]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:38:36) [GET]
+  [4;35;1mShop Load (3.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 229ms (View: 216, DB: 3) | 200 OK [http://yuiseki.net/shops]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:39:29) [GET]
+  Parameters: {"id"=>"36"}
+  [4;36;1mShop Load (0.4ms)[0m   [0;1mSELECT * FROM "shops" WHERE ("shops"."id" = 36) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://yuiseki.net/shops/36/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 01:39:34) [PUT]
+  Parameters: {"shop"=>{"name"=>"鳥つね", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"", "address"=>"東京都千代田区外神田5-5-2 "}, "commit"=>"Update", "authenticity_token"=>"28b4481b9571cad4969395d3a60c0eed61b89ca1", "id"=>"36"}
+  [4;35;1mShop Load (0.5ms)[0m   [0mSELECT * FROM "shops" WHERE ("shops"."id" = 36) [0m
+  [4;36;1mShop Update (0.5ms)[0m   [0;1mUPDATE "shops" SET "url" = '', "wifi" = 'f', "image" = '', "address" = '東京都千代田区外神田5-5-2 ', "power" = 'f', "updated_at" = '2009-05-15 16:39:34' WHERE "id" = 36[0m
+Redirected to /
+Completed in 116ms (DB: 1) | 302 Found [http://yuiseki.net/shops/36]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:39:34) [GET]
+  [4;35;1mShop Load (3.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 493ms (View: 480, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:39:49) [GET]
+  [4;36;1mShop Load (3.1ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 326ms (View: 313, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:47:43) [GET]
+  [4;35;1mShop Load (3.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 232ms (View: 219, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:48:18) [GET]
+  Parameters: {"id"=>"36"}
+  [4;36;1mShop Load (0.4ms)[0m   [0;1mSELECT * FROM "shops" WHERE ("shops"."id" = 36) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://yuiseki.net/shops/36/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 01:48:22) [PUT]
+  Parameters: {"shop"=>{"name"=>"鳥つね", "wifi"=>"1", "url"=>"", "power"=>"0", "image"=>"", "address"=>"東京都千代田区外神田5-5-2 "}, "commit"=>"Update", "authenticity_token"=>"28b4481b9571cad4969395d3a60c0eed61b89ca1", "id"=>"36"}
+  [4;35;1mShop Load (0.4ms)[0m   [0mSELECT * FROM "shops" WHERE ("shops"."id" = 36) [0m
+  [4;36;1mShop Update (241.8ms)[0m   [0;1mUPDATE "shops" SET "wifi" = 't', "updated_at" = '2009-05-15 16:48:22' WHERE "id" = 36[0m
+Redirected to /
+Completed in 496ms (DB: 242) | 302 Found [http://yuiseki.net/shops/36]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:48:23) [GET]
+  [4;35;1mShop Load (3.0ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 331ms (View: 319, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:48:26) [GET]
+  Parameters: {"id"=>"36"}
+  [4;36;1mShop Load (0.4ms)[0m   [0;1mSELECT * FROM "shops" WHERE ("shops"."id" = 36) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://yuiseki.net/shops/36/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 01:48:27) [PUT]
+  Parameters: {"shop"=>{"name"=>"鳥つね", "wifi"=>"1", "url"=>"", "power"=>"1", "image"=>"", "address"=>"東京都千代田区外神田5-5-2 "}, "commit"=>"Update", "authenticity_token"=>"28b4481b9571cad4969395d3a60c0eed61b89ca1", "id"=>"36"}
+  [4;35;1mShop Load (0.4ms)[0m   [0mSELECT * FROM "shops" WHERE ("shops"."id" = 36) [0m
+  [4;36;1mShop Update (0.3ms)[0m   [0;1mUPDATE "shops" SET "power" = 't', "updated_at" = '2009-05-15 16:48:27' WHERE "id" = 36[0m
+Redirected to /
+Completed in 182ms (DB: 1) | 302 Found [http://yuiseki.net/shops/36]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:48:27) [GET]
+  [4;35;1mShop Load (3.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 354ms (View: 341, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:48:39) [GET]
+  Parameters: {"id"=>"45"}
+  [4;36;1mShop Load (0.4ms)[0m   [0;1mSELECT * FROM "shops" WHERE ("shops"."id" = 45) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 20ms (View: 10, DB: 0) | 200 OK [http://yuiseki.net/shops/45/edit]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:48:40) [GET]
+  [4;35;1mShop Load (3.1ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 233ms (View: 219, DB: 3) | 200 OK [http://yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:49:04) [GET]
+  [4;36;1mShop Load (3.1ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 330ms (View: 317, DB: 3) | 200 OK [http://yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:49:31) [GET]
+  [4;35;1mShop Load (3.2ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 238ms (View: 225, DB: 3) | 200 OK [http://yuiseki.net/shops]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:49:44) [GET]
+  Parameters: {"id"=>"36"}
+  [4;36;1mShop Load (0.4ms)[0m   [0;1mSELECT * FROM "shops" WHERE ("shops"."id" = 36) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://yuiseki.net/shops/36/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 01:49:46) [PUT]
+  Parameters: {"shop"=>{"name"=>"鳥つね", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"", "address"=>"東京都千代田区外神田5-5-2 "}, "commit"=>"Update", "authenticity_token"=>"28b4481b9571cad4969395d3a60c0eed61b89ca1", "id"=>"36"}
+  [4;35;1mShop Load (0.4ms)[0m   [0mSELECT * FROM "shops" WHERE ("shops"."id" = 36) [0m
+  [4;36;1mShop Update (0.3ms)[0m   [0;1mUPDATE "shops" SET "wifi" = 'f', "power" = 'f', "updated_at" = '2009-05-15 16:49:46' WHERE "id" = 36[0m
+Redirected to /
+Completed in 167ms (DB: 1) | 302 Found [http://yuiseki.net/shops/36]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:49:47) [GET]
+  [4;35;1mShop Load (77.5ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 341ms (View: 234, DB: 77) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:49:51) [GET]
+  [4;36;1mShop Load (3.2ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 239ms (View: 226, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:52:01) [GET]
+  [4;35;1mShop Load (3.9ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 343ms (View: 232, DB: 4) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:55:07) [GET]
+  [4;36;1mShop Load (3.3ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 241ms (View: 228, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:55:47) [GET]
+  [4;35;1mShop Load (3.4ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 248ms (View: 234, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:56:35) [GET]
+  [4;36;1mShop Load (3.2ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 240ms (View: 228, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 01:59:41) [GET]
+  [4;35;1mShop Load (3.3ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 247ms (View: 234, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 01:59:55) [GET]
+  Parameters: {"id"=>"35"}
+  [4;36;1mShop Load (0.4ms)[0m   [0;1mSELECT * FROM "shops" WHERE ("shops"."id" = 35) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 19ms (View: 10, DB: 0) | 200 OK [http://yuiseki.net/shops/35/edit]
+
+
+Processing ShopsController#update (for 192.168.1.1 at 2009-05-16 02:00:19) [PUT]
+  Parameters: {"shop"=>{"name"=>"裏秋葉原", "wifi"=>"0", "url"=>"", "power"=>"0", "image"=>"http://farm4.static.flickr.com/3652/3533555100_3215027dff_m.jpg", "address"=>"東京都千代田区外神田4-3-11"}, "commit"=>"Update", "authenticity_token"=>"28b4481b9571cad4969395d3a60c0eed61b89ca1", "id"=>"35"}
+  [4;35;1mShop Load (0.4ms)[0m   [0mSELECT * FROM "shops" WHERE ("shops"."id" = 35) [0m
+  [4;36;1mShop Update (0.4ms)[0m   [0;1mUPDATE "shops" SET "url" = '', "wifi" = 'f', "image" = 'http://farm4.static.flickr.com/3652/3533555100_3215027dff_m.jpg', "power" = 'f', "updated_at" = '2009-05-15 17:00:19' WHERE "id" = 35[0m
+Redirected to /
+Completed in 137ms (DB: 1) | 302 Found [http://yuiseki.net/shops/35]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:00:19) [GET]
+  [4;35;1mShop Load (3.2ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 383ms (View: 370, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#edit (for 192.168.1.1 at 2009-05-16 02:00:35) [GET]
+  Parameters: {"id"=>"35"}
+  [4;36;1mShop Load (0.4ms)[0m   [0;1mSELECT * FROM "shops" WHERE ("shops"."id" = 35) [0m
+Rendering template within layouts/shops
+Rendering shops/edit
+Completed in 19ms (View: 11, DB: 0) | 200 OK [http://yuiseki.net/shops/35/edit]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:00:36) [GET]
+  [4;35;1mShop Load (3.3ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 243ms (View: 230, DB: 3) | 200 OK [http://yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:00:48) [GET]
+  [4;36;1mShop Load (3.2ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 343ms (View: 330, DB: 3) | 200 OK [http://yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:00:54) [GET]
+  [4;35;1mShop Load (3.3ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 241ms (View: 228, DB: 3) | 200 OK [http://yuiseki.net/shops]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:01:33) [GET]
+  [4;36;1mShop Load (3.3ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 350ms (View: 337, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:03:09) [GET]
+  [4;35;1mShop Load (3.2ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 242ms (View: 229, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:03:37) [GET]
+  [4;36;1mShop Load (79.2ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 346ms (View: 235, DB: 79) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:08:20) [GET]
+  [4;35;1mShop Load (3.3ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 259ms (View: 236, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:08:27) [GET]
+  [4;36;1mShop Load (3.4ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 250ms (View: 236, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:09:40) [GET]
+  [4;35;1mShop Load (3.2ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 244ms (View: 231, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:10:07) [GET]
+  [4;36;1mShop Load (3.4ms)[0m   [0;1mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 249ms (View: 235, DB: 3) | 200 OK [http://yuiseki.net/]
+
+
+Processing ShopsController#index (for 192.168.1.1 at 2009-05-16 02:10:24) [GET]
+  [4;35;1mShop Load (3.7ms)[0m   [0mSELECT * FROM "shops" ORDER BY updated_at DESC LIMIT 50[0m
+Rendering template within layouts/shops
+Rendering shops/index
+Completed in 240ms (View: 227, DB: 4) | 200 OK [http://yuiseki.net/]
